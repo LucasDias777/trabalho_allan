@@ -1,0 +1,78 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Requisiçoes",
+    "collectionId": "c390f657-9d73-4685-933c-d21b81e251c4",
+    "dateExported": "2024-06-09T20:58:03.442Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "c04d64e5-548e-4933-8eb4-59f59861fe50",
+            "colId": "c390f657-9d73-4685-933c-d21b81e251c4",
+            "containerId": "",
+            "name": "http://localhost:3000/auth/register",
+            "url": "http://localhost:3000/auth/login",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2024-06-09T20:53:19.956Z",
+            "modified": "2024-06-09T20:53:19.956Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"email\": \"lucas.santos@gmail.com\",\n  \"password\": \"123456\"\n}\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "e95918f2-e1f0-4157-9c6f-086ca20b8b48",
+            "colId": "c390f657-9d73-4685-933c-d21b81e251c4",
+            "containerId": "",
+            "name": "http://localhost:3000/auth/register",
+            "url": "http://localhost:3000/auth/register",
+            "method": "POST",
+            "sortNum": 20000,
+            "created": "2024-06-09T20:55:08.079Z",
+            "modified": "2024-06-09T20:55:08.079Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"Thiago\",\r\n  \"email\": \"thiago.santos@gmail.com\",\r\n  \"password\": \"123456\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "3811e4fd-6dc5-4948-9621-7e42479b8ec5",
+            "colId": "c390f657-9d73-4685-933c-d21b81e251c4",
+            "containerId": "",
+            "name": "http://localhost:3000/auth/register",
+            "url": "http://localhost:3000/auth/login",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2024-06-09T20:56:11.530Z",
+            "modified": "2024-06-09T20:56:11.530Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"email\": \"thiago.santos@gmail.com\",\r\n  \"password\": \"123456\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "b66b82e6-dc22-4f43-b34e-42a77e088bdc",
+            "colId": "c390f657-9d73-4685-933c-d21b81e251c4",
+            "containerId": "",
+            "name": "http://localhost:3000/auth/register",
+            "url": "http://localhost:3000/protected",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2024-06-09T20:57:53.774Z",
+            "modified": "2024-06-09T20:57:53.774Z",
+            "headers": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiaWF0IjoxNzE3OTY2NTU5LCJleHAiOjE3MTc5NzAxNTl9.o9O9pbXedBv4JOug3RTDUmsgoGSS9-MGChDnMBlTbBA"
+            }
+        }
+    ],
+    "ref": "tZSB9_v2Zq-3ofLA3ClEA9pDm3S__xWXiPI-X9CBblq8k0C8TGclWEM0o6IR--xMSLlQENNhrakIFbgv_tc0ng"
+}

@@ -5,7 +5,7 @@ Este é um projeto de autenticação simples usando Node.js, Express, Sequelize,
 ## Vamos aos passos
 
 1. Clone o repositório:
-   git clone https://github.com/LucasDias777/projeto-jwt.git
+   git clone https://github.com/LucasDias777/trabalho_allan.git
    entra na pasta cd projeto-jwt 
    mete um code . depois já era
 
